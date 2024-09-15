@@ -1,4 +1,4 @@
-// atwt_plugin.c
+// ATWT.CPP
 // VapourSynth Plugin: Use À Trous Wavelet Transform to extract specified frequency details (supports 8-bit and 16-bit grayscale images)
 
 #include <stdlib.h>

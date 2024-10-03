@@ -2,7 +2,7 @@
 
 This VapourSynth plugin implements the À Trous Wavelet Transform (ATWT) for extracting frequency details from grayscale images.
 
-**NEVER USE IT FOR ANY PURPOSE. I WROTE IT ONLY FOR LEARNING VS PLUGINS**
+**NEVER USE IT FOR ANY PURPOSE. I WROTE IT ONLY FOR LEARNING ABOUT VS PLUGINS**
 
 ## Build Instructions
 
